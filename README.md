@@ -1,6 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nabinamallik&label=Profile%20views&color=0e75b6&style=flat" alt="nabinamallik" /> </p>
 <h1 align="center">Hi 👋, I'm Nabin</h1>
-<h4 align="center">I am currently a 2nd year student at Konark Institute of Science and Technology(KIST), Bhubaneswar, pursuing B.Tech.
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+<h4 align="left">I am currently a 2nd year student at Konark Institute of Science and Technology(KIST), Bhubaneswar, pursuing B.Tech.
 
 I am interested in Cybersecurity (self), software development and learning new programming languages and seeking excitement opportunities and projects related to the same. In the development field, i am looking for being a full-stack Developer and also looking forward to Ethical Hacking in upcoming years. In past I created Memes,Animations and Graphics as a creator in various social media platforms (i.g.- YouTube and Instagram).
 
@@ -14,7 +15,6 @@ I feel happy to get some opportunity or help from your side.</h4>
 
 
 [![An image of @nabinamallik's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nabinamallik)](https://holopin.io/@nabinamallik)
-
 
 
 - 🌱 I’m currently learning **Android Development**
