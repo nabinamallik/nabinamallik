@@ -13,14 +13,16 @@ I feel happy to get some opportunity or help from your side.</h4>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+[![An image of @nabinamallik's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nabinamallik)](https://holopin.io/@nabinamallik)
+
+
+
 - 🌱 I’m currently learning **Android Development**
 
 - 📫 How to reach me **nabinamallik2003@gmail.com**
 
 - ⚡ Fun fact **I 7hink I'm Funny 🤪**
 
-
-[![An image of @nabinamallik's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nabinamallik)](https://holopin.io/@nabinamallik)
 
 
 
@@ -58,7 +60,7 @@ I feel happy to get some opportunity or help from your side.</h4>
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nabinamallik)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nabina_mallik)
 
-
+##
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nabinamallik&show_icons=true&locale=en&layout=compact" alt="nabinamallik" /></p>
 
