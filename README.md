@@ -1,12 +1,23 @@
-
-## 🚀 About Me
-I am currently a 2nd year student at Konark Institute of Science and Technology(KIST), Bhubaneswar, pursuing B.Tech.
+<h1 align="center">Hi 👋, I'm Nabin</h1>
+<h4 align="center">I am currently a 2nd year student at Konark Institute of Science and Technology(KIST), Bhubaneswar, pursuing B.Tech.
 
 I am interested in Cybersecurity (self), software development and learning new programming languages and seeking excitement opportunities and projects related to the same. In the development field, i am looking for being a full-stack Developer and also looking forward to Ethical Hacking in upcoming years. In past I created Memes,Animations and Graphics as a creator in various social media platforms (i.g.- YouTube and Instagram).
 
 Being a Govt.School student,I repeatedly been exposed to new cultures and diverse group of people.I am always curious to study about new technologies and Application.I like to know the exact logic behind them to crack and modify(Mod) them as well.
 
-I feel happy to get some opportunity or help from your side.
+I feel happy to get some opportunity or help from your side.</h4>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nabinamallik&label=Profile%20views&color=0e75b6&style=flat" alt="nabinamallik" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nabinamallik" alt="nabinamallik" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+- 🌱 I’m currently learning **Android Development**
+
+- 📫 How to reach me **nabinamallik2003@gmail.com**
+
+- ⚡ Fun fact **I 7hink I'm Funny 🤪**
 
 
 [![An image of @nabinamallik's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nabinamallik)](https://holopin.io/@nabinamallik)
@@ -41,7 +52,16 @@ I feel happy to get some opportunity or help from your side.
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 
+
 ## Links :
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://portfolionabina.super.site/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nabinamallik)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nabina_mallik)
+
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nabinamallik&show_icons=true&locale=en&layout=compact" alt="nabinamallik" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nabinamallik&show_icons=true&locale=en" alt="nabinamallik" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nabinamallik&" alt="nabinamallik" /></p>
