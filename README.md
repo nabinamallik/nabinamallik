@@ -62,8 +62,5 @@ I feel happy to get some opportunity or help from your side.<p align="right"> <i
 
 ##
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nabinamallik&show_icons=true&locale=en&layout=compact" alt="nabinamallik" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nabinamallik&show_icons=true&locale=en" alt="nabinamallik" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nabinamallik&" alt="nabinamallik" /></p>
