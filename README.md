@@ -52,6 +52,7 @@ I feel happy to get some opportunity or help from your side.<p align="right"> <i
 
 ## Others :
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 
 
