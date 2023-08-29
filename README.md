@@ -5,13 +5,9 @@
 
 As I chart my path in the development realm, my aim is to become a dynamic full-stack developer. The prospect of crafting entire applications, from the user interface to the backend functionality, resonates with me deeply. My unique background from a government school fuels my knack for embracing diverse perspectives and collaborating seamlessly.
 
-I'm actively seeking opportunities to showcase my skills and collaborate on exciting projects. If you're looking for a dedicated and passionate team player, I'd love to connect with you. You can find me on:
+I'm actively seeking opportunities to showcase my skills and collaborate on exciting projects. If you're looking for a dedicated and passionate team player, I'd love to connect with you.
 
-Facebook: Nabina Mallik
-Twitter: nabina_mallik
-GitHub: nabinamallik
-
-Let's create something great together! 🚀.<p align="right"> <img src="https://komarev.com/ghpvc/?username=nabinamallik&label=Profile%20views&color=0e75b6&style=flat" alt="nabinamallik" /></p></h5>
+Let's create something great together! 🚀<br><br><p align="right"> <img src="https://komarev.com/ghpvc/?username=nabinamallik&label=Profile%20views&color=0e75b6&style=flat" alt="nabinamallik" /></p></h5>
 
 
 
