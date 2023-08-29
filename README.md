@@ -1,4 +1,4 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+![MasterHead](https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966)
 <h1 align="center">Hi 👋, I'm Nabin</h1>
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 <h5 align="left">I'm a B.Tech Junior from Konark Institute of Science and Technology, Bhubaneswar, on an exhilarating journey into web and software realms. My fascination with programming languages drives me to seek fresh challenges and opportunities.<br><br>
@@ -21,11 +21,11 @@ Let's create something great together! 🚀.<p align="right"> <img src="https://
 [![An image of @nabinamallik's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nabinamallik)](https://holopin.io/@nabinamallik)
 
 
-- 🌱 I’m currently learning **Android Development**
+- 🌱 I’m currently learning **WebApp Development**
 
 - 📫 How to reach me **nabinamallik2003@gmail.com**
 
-- ⚡ Fun fact **I 7hink I'm Funny 🤪**
+- ⚡ Fun fact **"🐞Bug-free code? That's a myth propagated by the sane!"**
 
 
 
