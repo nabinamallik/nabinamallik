@@ -6,14 +6,15 @@
 As I chart my path in the development realm, my aim is to become a dynamic full-stack developer. The prospect of crafting entire applications, from the user interface to the backend functionality, resonates with me deeply. My unique background from a government school fuels my knack for embracing diverse perspectives and collaborating seamlessly.
 
 I'm actively seeking opportunities to showcase my skills and collaborate on exciting projects. If you're looking for a dedicated and passionate team player, I'd love to connect with you.
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=nabinamallik&label=Profile%20views&color=0e75b6&style=flat" alt="nabinamallik" /></p></h5>
 
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=nabinamallik&label=Profile%20views&color=0e75b6&style=flat" alt="nabinamallik" /></p></h5>
 
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nabinamallik&row=2&column=7" alt="nabinamallik" /></a> </p>
 
 
 [![An image of @nabinamallik's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nabinamallik)](https://holopin.io/@nabinamallik)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1dc22c1a-de63-499a-8135-fc539e6eb3f6/deploy-status)](https://app.netlify.com/sites/joyful-treacle-cc9cbc/deploys)
 
 
 - 🌱 I’m currently learning **WebApp Development**
