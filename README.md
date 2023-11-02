@@ -14,7 +14,7 @@ I'm actively seeking opportunities to showcase my skills and collaborate on exci
 
 
 [![An image of @nabinamallik's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nabinamallik)](https://holopin.io/@nabinamallik)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/1dc22c1a-de63-499a-8135-fc539e6eb3f6/deploy-status)](https://app.netlify.com/sites/joyful-treacle-cc9cbc/deploys)
+
 
 
 - 🌱 I’m currently learning **WebApp Development**
