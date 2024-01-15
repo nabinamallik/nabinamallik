@@ -17,7 +17,9 @@ I'm actively seeking opportunities to showcase my skills and collaborate on exci
 
 
 
-- 🌱 I’m currently learning **WebApp Development**
+- 🌱 I’m currently learning **Website and Android Development**
+
+- 💪 Expert in **Communication, Problem Solving**
 
 - 📫 How to reach me **nabinamallik2003@gmail.com**
 
