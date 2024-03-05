@@ -43,7 +43,7 @@ I'm actively seeking opportunities to showcase my skills and collaborate on exci
 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
+![Tailwind](https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss)
 
 ## Fimilar OS :
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
