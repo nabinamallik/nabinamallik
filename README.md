@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Nabin</h1>
-<h5 align="left">I'm a B.Tech Pre-Final year student of Konark Institute of Science and Technology, Bhubaneswar, on an exhilarating journey into web and software realms. My fascination with programming languages drives me to seek fresh challenges and opportunities.<br><br>
+<h5 align="left">I'm a B.Tech Final year student of Konark Institute of Science and Technology, Bhubaneswar, on an exhilarating journey into web and software realms. My fascination with programming languages drives me to seek fresh challenges and opportunities.<br><br>
 
 As I chart my path in the development realm, my aim is to become a dynamic full-stack developer. The prospect of crafting entire applications, from the user interface to the backend functionality, resonates with me deeply. My unique background from a government school fuels my knack for embracing diverse perspectives and collaborating seamlessly.
 
